@@ -1,7 +1,9 @@
 #tidyData.csv Code Book
 
-#### SubjectId
+#### SubjectI
+
 #### Activity
+
 #### tBodyAcc.mean.X
 #### tBodyAcc.mean.Y
 #### tBodyAcc.mean.Z
