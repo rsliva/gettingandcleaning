@@ -10,6 +10,9 @@ WALKING_DOWNSTAIRS
 SITTING  
 STANDING  
 LAYING   
+
+Note: The following measurements represent the mean values by Subject and Activity  
+
 #### tBodyAcc.mean.X
 (numeric) Mean accelerometer value in the X direction
 #### tBodyAcc.mean.Y
