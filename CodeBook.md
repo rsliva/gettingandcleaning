@@ -1,15 +1,15 @@
 #tidyData.csv Code Book
 
 #### SubjectId
-+ The Subject ID 91 to 30) representing the subject being monitored
+The Subject ID (1 to 30) representing the subject being monitored
 #### Activity
-+ The Type of activity being monitored: 
-++ 1 WALKING
-++ 2 WALKING_UPSTAIRS
-++ 3 WALKING_DOWNSTAIRS
-++ 4 SITTING
-++ 5 STANDING
-++ 6 LAYING 
+The Type of activity being monitored: 
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING 
 #### tBodyAcc.mean.X
 #### tBodyAcc.mean.Y
 #### tBodyAcc.mean.Z
@@ -54,11 +54,17 @@
 #### fBodyAcc.mean.Y
 #### fBodyAcc.mean.Z
 #### fBodyAcc.std.X
+Standard Deviation for body acceleration in the X direction
 #### fBodyAcc.std.Y
+Standard Deviation for body acceleration in the Y direction
 #### fBodyAcc.std.Z
+Standard Deviation for body acceleration in the Z direction
 #### fBodyAccJerk.mean.X
+Mean body acceleration jerk in the X direction
 #### fBodyAccJerk.mean.Y
+Mean body acceleration jerk in the Y direction
 #### fBodyAccJerk.mean.Z
+Mean body acceleration jerk in the Z direction
 #### fBodyAccJerk.std.X
 #### fBodyAccJerk.std.Y
 #### fBodyAccJerk.std.Z
