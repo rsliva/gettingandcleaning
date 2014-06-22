@@ -1,7 +1,7 @@
 #tidyData.csv Code Book
 
 #### SubjectId
-+ The Subject ID 91 to 30) representing the subject being monitored
++ The Subject ID (1 to 30) representing the subject being monitored
 #### Activity
 + The Type of activity being monitored: 
 ++ 1 WALKING
