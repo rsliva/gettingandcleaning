@@ -3,13 +3,13 @@
 #### SubjectId
   + The Subject ID (1 to 30) representing the subject being monitored
 #### Activity
-  + The Type of activity being monitored: 
-  ++ 1 WALKING
-  ++ 2 WALKING_UPSTAIRS
-  ++ 3 WALKING_DOWNSTAIRS
-  ++ 4 SITTING
-  ++ 5 STANDING
-  ++ 6 LAYING 
+The Type of activity being monitored: 
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING 
 #### tBodyAcc.mean.X
 #### tBodyAcc.mean.Y
 #### tBodyAcc.mean.Z
