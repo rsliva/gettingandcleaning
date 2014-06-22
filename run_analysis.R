@@ -57,5 +57,5 @@ melt1 <- melt(smset,id=c("Activity","SubjectId"), measure.vars=features[smLabels
 tidyData <- dcast(melt1, SubjectId + Activity ~ variable, value.var="value", mean)
 
 # write out the file
-write.csv(tidyData,"tidyData.csv")
+write.csv(tidyData,"tidyData.txt")
 
