@@ -1,5 +1,7 @@
 #tidyData.csv Code Book
 
+#### row number (blank column name)
+The row number
 #### SubjectId
 The Subject ID (1 to 30) representing the subject being monitored
 #### Activity
