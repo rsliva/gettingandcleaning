@@ -1,6 +1,5 @@
 #tidyData.csv Code Book
 
-<<<<<<< HEAD
 #### SubjectId
 The Subject ID (1 to 30) representing the subject being monitored
 #### Activity
@@ -11,12 +10,10 @@ The Type of activity being monitored:
 4 SITTING
 5 STANDING
 6 LAYING 
-=======
 #### SubjectI
 
 #### Activity
 
->>>>>>> 31e739a4c5bc39ff5aea2a1c530e8074e83a2a5a
 #### tBodyAcc.mean.X
 #### tBodyAcc.mean.Y
 #### tBodyAcc.mean.Z
